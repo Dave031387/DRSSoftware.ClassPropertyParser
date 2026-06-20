@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="LICENSE.txt" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="DRSSoftware.ClassPropertyParser.Tests/DRSSoftware.ClassPropertyParser.Tests.csproj" />
+  <Project Path="DRSSoftware.ClassPropertyParser/DRSSoftware.ClassPropertyParser.csproj" />
+  <Project Path="OtherModels/OtherModels.csproj" Id="8d2304c6-8beb-4c02-a16e-f0db27cd9890" />
+  <Project Path="TestModels/TestModels.csproj" />
+</Solution>
